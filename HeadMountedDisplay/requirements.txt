@@ -1,0 +1,6 @@
+numpy
+opencv-contrib-python==4.7.0.72
+PyYAML
+websocket-client
+picamera2
+bottle

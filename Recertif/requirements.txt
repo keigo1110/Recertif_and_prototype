@@ -1,0 +1,5 @@
+open3d==0.17.0
+numpy==1.25.2
+websocket==0.2.1
+matplotlib==3.7.2
+pyjson5==1.6.4
